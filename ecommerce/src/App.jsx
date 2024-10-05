@@ -5,7 +5,6 @@ import {
   RouterProvider,
   Route,
 } from "react-router-dom";
-import Products from "./components/Products";
 import Dashboard from "./components/Dashboard";
 import Cart from "./components/Cart";
 import RootLayout from "./components/RootLayout";
